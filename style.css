@@ -1,5 +1,6 @@
-header{
-    background-color: #181717;
-    color:blue;
-   
+:root {
+    --cor-de-fundo: #EBECEE;
+}
+body {
+    background-color: var(--cor-de-fundo);
 }
